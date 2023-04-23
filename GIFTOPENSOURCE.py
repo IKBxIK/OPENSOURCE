@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
+# EID GIFT BY SAJJADxIKB
 try:
 	import os,requests,json,time,re,random,sys
 	from concurrent.futures import ThreadPoolExecutor as tred
